@@ -25,11 +25,11 @@ A console application for analyzing weather data. Users can load weather records
 
 1. Open Command Prompt `cmd` in the project folder and run:  
         ```
-        stack build  
+        stack build
         ```
 2. Run the application:  
         ```
-        stack run  
+        stack run
         ```
 3. Use the program:  
     First, load data using menu option `5`.  
@@ -37,7 +37,7 @@ A console application for analyzing weather data. Users can load weather records
     `date,tempMax,tempMin,precipitation,humidity,wind`  
     for example (weather.csv):  
         ```
-        2024-06-01,25.0,15.0,0.0,60.0,5.0<br/>
+        2024-06-01,25.0,15.0,0.0,60.0,5.0\
         2024-06-02,28.0,18.0,2.5,70.0,8.0  
         ```
 
@@ -52,8 +52,8 @@ A console application for analyzing weather data. Users can load weather records
 
 #### Notes 
 
-If you see garbled text, run `chcp 65001` before `stack run` to enable UTF-8:  
+If you see garbled text, run `chcp 65001` before `stack run` to enable UTF-8:\
     ```  
-    chcp 65001<br/>
+    chcp 65001\
     stack run
     ```

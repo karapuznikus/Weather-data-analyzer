@@ -1,0 +1,16 @@
+? C:\Users\karapuznikus\AppData\Local\Programs\stack\x86_64-windows\ghc-9.10.3\lib\x86_64-windows-ghc-9.10.3\rts-1.0.2\include\ghcversion.h
+: hash: 7038bb968ecc358729edd5d1e72a638409aaf5ea6ab13ce6ec7f253daa3b6529
+? F:\!GIT repositories\PogodaAnalysHaskell\weather-haskell\.stack-work\dist\1a191874\build\weather-analyzer-exe\autogen\Paths_weather_analyzer.hs
+: hash: d8518a88df12835419bde140864b39dafe9c77e1b0a98773ed4d9d9f734e0e4f
+? F:\!GIT repositories\PogodaAnalysHaskell\weather-haskell\.stack-work\dist\1a191874\build\weather-analyzer-exe\autogen\cabal_macros.h
+: hash: 2c03af66978e09e0dcc530acbde14ee01b212938d4b844347b2d81f1681466e7
+F:\!GIT repositories\PogodaAnalysHaskell\weather-haskell\CHANGELOG.md:
+  hash: e2a5277e3a3d6ccb5d1b7eac9ada75c6baf100b7bd31de39404fa1ff68295b48
+F:\!GIT repositories\PogodaAnalysHaskell\weather-haskell\README.md:
+  hash: 11016d9ecaacd976a3cdcc42f0ce0d34a4d0b4c2c8fe7d8b448379fd6bae1f97
+F:\!GIT repositories\PogodaAnalysHaskell\weather-haskell\app\Main.hs:
+  hash: 835bc33ab5ed506baff97f832e541d6c73d69206e5224509df4b6c02d649ec1b
+F:\!GIT repositories\PogodaAnalysHaskell\weather-haskell\package.yaml:
+  hash: 2ea4d7abad49147e17d439441345b68d9630170b8c51050ce4556832f52b2cc4
+F:\!GIT repositories\PogodaAnalysHaskell\weather-haskell\weather-analyzer.cabal:
+  hash: 336ea779e7f6479b85a3be2fb6114d404fba328296d8a1665b6215e33806afd9

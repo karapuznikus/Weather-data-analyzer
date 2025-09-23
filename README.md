@@ -35,10 +35,10 @@ A console application for analyzing weather data. Users can load weather records
     First, load data using menu option `5`.  
     The program expects a `CSV` file with following format (no header):  
     `date,tempMax,tempMin,precipitation,humidity,wind`  
-    for example (weather.csv):  
+    for example (weather.csv):
         ```
-        2024-06-01,25.0,15.0,0.0,60.0,5.0\
-        2024-06-02,28.0,18.0,2.5,70.0,8.0  
+        2024-06-01,25.0,15.0,0.0,60.0,5.0
+        2024-06-02,28.0,18.0,2.5,70.0,8.0
         ```
 
 ### Menu options
@@ -52,8 +52,8 @@ A console application for analyzing weather data. Users can load weather records
 
 #### Notes 
 
-If you see garbled text, run `chcp 65001` before `stack run` to enable UTF-8:\
-    ```  
-    chcp 65001\
+If you see garbled text, run `chcp 65001` before `stack run` to enable UTF-8:
+    ```
+    chcp 65001
     stack run
     ```
